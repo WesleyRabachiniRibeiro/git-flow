@@ -1,0 +1,1 @@
+Grave ou guarde nessa página documentos que explicam o escopo do projeto
